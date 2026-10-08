@@ -30,11 +30,3 @@ After connecting a live-enabled YouTube channel and granting camera/microphone p
 5. Viewers join the website's chat. Stop ends the broadcast and releases relay resources.
 
 The API manages the broadcast; it does not capture/transmit browser media. The separate relay is essential to the browser-only experience. See the backend guide and [YouTube's broadcast lifecycle](https://developers.google.com/youtube/v3/live/life-of-a-broadcast).
-
-## Is it completely free?
-
-The local frontend demo needs no paid services. YouTube API access is quota-limited, and YouTube handles embedded video delivery. Hosted media encoding/relay bandwidth, APIs, database, chat, and optional TURN servers have resource limits or costs. A small local prototype can avoid hosting charges, but an always-on hosted platform is **not guaranteed completely free**. See [YouTube quota](https://developers.google.com/youtube/v3/getting-started) and the backend guide.
-
-## Scope
-
-React is used as requested, although the PDF specifies Next.js. A framework migration is not included. The colors follow the [Hackerspace reference](https://hackerspace-website-new.vercel.app/). The creator dashboard, profile, settings, and help pages remain teammate tasks.
