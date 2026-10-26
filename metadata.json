@@ -1,0 +1,8 @@
+{
+  "name": "Streamspace",
+  "description": "Streamspace — a place to build, learn, and connect live.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
