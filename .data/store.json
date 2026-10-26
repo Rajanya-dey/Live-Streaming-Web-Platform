@@ -1,0 +1,297 @@
+{
+  "user": {
+    "id": "user_current",
+    "displayName": "You",
+    "handle": "you.creator",
+    "bio": "Curious creator and developer building with the Streamspace community.",
+    "avatarColor": "amber",
+    "initials": "YO",
+    "youtubeConnected": false,
+    "channelTitle": "Your YouTube Channel"
+  },
+  "follows": [],
+  "streams": [
+    {
+      "id": "build-with-us",
+      "title": "From idea to interface. Let’s build something.",
+      "creator": "Arjun Sharma",
+      "handle": "arjunbuilds",
+      "initials": "AS",
+      "category": "Development",
+      "viewers": "1.2k",
+      "viewerCount": 1204,
+      "color": "amber",
+      "art": "studio",
+      "subtitle": "Building a real-time app with React",
+      "description": "An idea, a blank canvas, and a little curiosity. Join Arjun as we turn a concept into a working React interface, one component at a time. Ask questions, share ideas, and build along.",
+      "embedUrl": null,
+      "videoMode": "art",
+      "status": "live",
+      "createdAt": 1791564927081
+    },
+    {
+      "id": "design-details",
+      "title": "Small details. Better interfaces.",
+      "creator": "Riya Das",
+      "handle": "riyadesigns",
+      "initials": "RD",
+      "category": "Design",
+      "viewers": "842",
+      "viewerCount": 842,
+      "color": "violet",
+      "art": "design",
+      "subtitle": "A live UI design session",
+      "description": "Exploring typography, layout, and all the little details that make an interface feel right. Bring your design questions and follow along.",
+      "embedUrl": null,
+      "videoMode": "art",
+      "status": "live",
+      "createdAt": 1791566127081
+    },
+    {
+      "id": "ai-playground",
+      "title": "Inside the AI playground",
+      "creator": "Dev Patel",
+      "handle": "devexplores",
+      "initials": "DP",
+      "category": "AI & ML",
+      "viewers": "628",
+      "viewerCount": 628,
+      "color": "cyan",
+      "art": "ai",
+      "subtitle": "Experiments, ideas, and a little machine learning",
+      "description": "A friendly exploration of machine learning concepts with practical examples. Learn together and discuss what we can build next.",
+      "embedUrl": null,
+      "videoMode": "art",
+      "status": "live",
+      "createdAt": 1791566727081
+    },
+    {
+      "id": "late-night-code",
+      "title": "Late night code & good company",
+      "creator": "Sneha Roy",
+      "handle": "snehacodes",
+      "initials": "SR",
+      "category": "Development",
+      "viewers": "356",
+      "viewerCount": 356,
+      "color": "green",
+      "art": "code",
+      "subtitle": "A relaxed coding session",
+      "description": "Settle in for a relaxed frontend coding session. Work on your own project, ask a question, or just enjoy the company.",
+      "embedUrl": null,
+      "videoMode": "art",
+      "status": "live",
+      "createdAt": 1791567627081
+    },
+    {
+      "id": "stream-mv19np4r",
+      "title": "Test Live Coding Session",
+      "description": "Live stream created via backend API",
+      "category": "Development",
+      "subtitle": "Broadcasting live on Streamspace",
+      "creator": "You",
+      "creatorId": "user_current",
+      "handle": "you.creator",
+      "initials": "YO",
+      "color": "amber",
+      "viewers": "1",
+      "viewerCount": 1,
+      "art": "studio",
+      "embedUrl": null,
+      "videoMode": "camera",
+      "status": "ended",
+      "createdAt": 1791568550907
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "streamId": "build-with-us",
+      "name": "Streamspace",
+      "text": "Welcome in! Be kind, stay curious, and enjoy the session.",
+      "color": "cyan",
+      "system": true,
+      "timestamp": 1791568227081
+    },
+    {
+      "id": 2,
+      "streamId": "build-with-us",
+      "name": "riya.designs",
+      "text": "That setup is such a vibe ✨",
+      "color": "violet",
+      "timestamp": 1791568287081
+    },
+    {
+      "id": 3,
+      "streamId": "build-with-us",
+      "name": "dev.exe",
+      "text": "React + late night coffee = perfect combo",
+      "color": "cyan",
+      "timestamp": 1791568347081
+    },
+    {
+      "id": 4,
+      "streamId": "build-with-us",
+      "name": "sneha.codes",
+      "text": "Hey everyone! 👋",
+      "color": "green",
+      "timestamp": 1791568407081
+    },
+    {
+      "id": 5,
+      "streamId": "build-with-us",
+      "name": "arjunbuilds",
+      "text": "Glad you’re all here. Let’s make something cool!",
+      "color": "amber",
+      "host": true,
+      "timestamp": 1791568467081
+    },
+    {
+      "id": 6,
+      "streamId": "build-with-us",
+      "name": "pixel.panda",
+      "text": "Can you explain the component structure?",
+      "color": "pink",
+      "timestamp": 1791568497081
+    },
+    {
+      "id": 7,
+      "streamId": "build-with-us",
+      "name": "aman.dev",
+      "text": "Building along with you 🚀",
+      "color": "cyan",
+      "timestamp": 1791568517081
+    },
+    {
+      "id": "1791568540535k2rq",
+      "streamId": "build-with-us",
+      "name": "testuser",
+      "text": "Updated: Hello from the edited message API test!",
+      "color": "cyan",
+      "host": false,
+      "timestamp": 1791568540535,
+      "isEdited": true,
+      "editedAt": 1792855296145
+    },
+    {
+      "id": 1791568550907,
+      "streamId": "stream-mv19np4r",
+      "name": "Streamspace",
+      "text": "Stream started: \"Test Live Coding Session\". Be kind, stay curious, and enjoy the session!",
+      "color": "cyan",
+      "system": true,
+      "timestamp": 1791568550907
+    },
+    {
+      "id": "1791569096615m23k",
+      "streamId": "build-with-us",
+      "name": "websocket_tester",
+      "text": "Testing bidirectional WebSocket chat!",
+      "color": "cyan",
+      "host": false,
+      "timestamp": 1791569096615
+    },
+    {
+      "id": "1792854505634bpwx",
+      "streamId": "build-with-us",
+      "name": "dev.exe",
+      "text": "Hey @arjunbuilds and @riyadesigns love the UI!",
+      "color": "cyan",
+      "host": false,
+      "timestamp": 1792854505634
+    }
+  ],
+  "clips": [
+    {
+      "id": "clip-1",
+      "streamId": "build-with-us",
+      "title": "Live WebSocket Handshake Architecture Explained",
+      "duration": "0:48",
+      "clippedBy": "riyadesigns",
+      "createdAt": 1792932573999,
+      "views": 1240,
+      "likes": 89,
+      "art": "studio",
+      "timestampOffset": "14:20"
+    },
+    {
+      "id": "clip-2",
+      "streamId": "build-with-us",
+      "title": "Solving CSS Glassmorphism & Particle Explosions",
+      "duration": "1:15",
+      "clippedBy": "devexplores",
+      "createdAt": 1792933474000,
+      "views": 890,
+      "likes": 64,
+      "art": "design",
+      "timestampOffset": "28:45"
+    },
+    {
+      "id": "clip-3",
+      "streamId": "build-with-us",
+      "title": "Viewer Q&A: Optimizing React State vs WebSocket Events",
+      "duration": "2:04",
+      "clippedBy": "snehacodes",
+      "createdAt": 1792934074000,
+      "views": 615,
+      "likes": 47,
+      "art": "code",
+      "timestampOffset": "41:10"
+    },
+    {
+      "id": "clip-4",
+      "streamId": "design-details",
+      "title": "Finding the Perfect Typography Hierarchy in Seconds",
+      "duration": "0:55",
+      "clippedBy": "aman.dev",
+      "createdAt": 1792930774000,
+      "views": 1450,
+      "likes": 112,
+      "art": "design",
+      "timestampOffset": "08:30"
+    },
+    {
+      "id": "clip-5",
+      "streamId": "ai-playground",
+      "title": "Live Prompt Chaining & Realtime Grounding Demo",
+      "duration": "1:32",
+      "clippedBy": "pixel.panda",
+      "createdAt": 1792927174000,
+      "views": 2180,
+      "likes": 184,
+      "art": "ai",
+      "timestampOffset": "19:15"
+    }
+  ],
+  "polls": [
+    {
+      "id": "poll-1",
+      "streamId": "build-with-us",
+      "question": "Which feature should we build in next week’s live session?",
+      "options": [
+        {
+          "id": "opt-1",
+          "text": "Real-time Collaborative Canvas",
+          "votes": 47
+        },
+        {
+          "id": "opt-2",
+          "text": "WebRTC P2P Video/Audio Mesh",
+          "votes": 38
+        },
+        {
+          "id": "opt-3",
+          "text": "AI Agent Live Copilot Dashboard",
+          "votes": 29
+        }
+      ],
+      "createdBy": "arjunbuilds",
+      "createdAt": 1792933174000,
+      "isActive": true,
+      "totalVotes": 114,
+      "votedUserIds": {
+        "you.creator": "opt-1"
+      }
+    }
+  ]
+}
