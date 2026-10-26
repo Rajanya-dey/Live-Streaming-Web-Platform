@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Streamspace
 
 A streaming community website built with React + Vite. Creators are intended to broadcast through YouTube; viewers watch an embedded player and use the website's own chat.
@@ -30,3 +31,7 @@ After connecting a live-enabled YouTube channel and granting camera/microphone p
 5. Viewers join the website's chat. Stop ends the broadcast and releases relay resources.
 
 The API manages the broadcast; it does not capture/transmit browser media. The separate relay is essential to the browser-only experience. See the backend guide and [YouTube's broadcast lifecycle](https://developers.google.com/youtube/v3/live/life-of-a-broadcast).
+=======
+# Live-Streaming-Web-Platform
+A web platform where a streamer sets up their camera and microphone and starts a live stream directly from the website. The stream is created on YouTube as an unlisted live stream and embedded inside our own viewer page. The audience watches the stream on our website and can chat with the streamer and other viewers in real time. 
+>>>>>>> b903458ec4e94a1994a21ad82efb1818ea83eb22
